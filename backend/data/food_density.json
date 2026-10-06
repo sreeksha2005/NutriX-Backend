@@ -1,0 +1,119 @@
+{
+  "idli": {
+    "density_g_per_cm3": 0.85,
+    "standard_weight_g": 45.0,
+    "min_weight_g": 30.0,
+    "max_weight_g": 75.0,
+    "standard_thickness_cm": 2.2,
+    "standard_diameter_cm": 6.5,
+    "shape_factor": 0.75
+  },
+  "dosa": {
+    "density_g_per_cm3": 0.45,
+    "standard_weight_g": 90.0,
+    "min_weight_g": 60.0,
+    "max_weight_g": 180.0,
+    "standard_thickness_cm": 0.6,
+    "standard_diameter_cm": 22.0,
+    "shape_factor": 0.60
+  },
+  "chapati": {
+    "density_g_per_cm3": 0.75,
+    "standard_weight_g": 40.0,
+    "min_weight_g": 25.0,
+    "max_weight_g": 65.0,
+    "standard_thickness_cm": 0.35,
+    "standard_diameter_cm": 15.0,
+    "shape_factor": 0.80
+  },
+  "paneer": {
+    "density_g_per_cm3": 1.05,
+    "standard_weight_g": 100.0,
+    "min_weight_g": 40.0,
+    "max_weight_g": 250.0,
+    "standard_thickness_cm": 3.0,
+    "standard_diameter_cm": 9.0,
+    "shape_factor": 0.85
+  },
+  "poori": {
+    "density_g_per_cm3": 0.50,
+    "standard_weight_g": 35.0,
+    "min_weight_g": 20.0,
+    "max_weight_g": 60.0,
+    "standard_thickness_cm": 2.8,
+    "standard_diameter_cm": 10.0,
+    "shape_factor": 0.70
+  },
+  "rice": {
+    "density_g_per_cm3": 0.80,
+    "standard_weight_g": 150.0,
+    "min_weight_g": 80.0,
+    "max_weight_g": 300.0,
+    "standard_thickness_cm": 3.5,
+    "standard_diameter_cm": 12.0,
+    "shape_factor": 0.70
+  },
+  "dal": {
+    "density_g_per_cm3": 1.00,
+    "standard_weight_g": 150.0,
+    "min_weight_g": 80.0,
+    "max_weight_g": 250.0,
+    "standard_thickness_cm": 3.0,
+    "standard_diameter_cm": 10.0,
+    "shape_factor": 0.80
+  },
+  "salad": {
+    "density_g_per_cm3": 0.35,
+    "standard_weight_g": 100.0,
+    "min_weight_g": 40.0,
+    "max_weight_g": 200.0,
+    "standard_thickness_cm": 2.5,
+    "standard_diameter_cm": 12.0,
+    "shape_factor": 0.65
+  },
+  "vada": {
+    "density_g_per_cm3": 0.80,
+    "standard_weight_g": 50.0,
+    "min_weight_g": 30.0,
+    "max_weight_g": 80.0,
+    "standard_thickness_cm": 2.5,
+    "standard_diameter_cm": 7.0,
+    "shape_factor": 0.70
+  },
+  "poha": {
+    "density_g_per_cm3": 0.65,
+    "standard_weight_g": 150.0,
+    "min_weight_g": 80.0,
+    "max_weight_g": 250.0,
+    "standard_thickness_cm": 2.5,
+    "standard_diameter_cm": 12.0,
+    "shape_factor": 0.70
+  },
+  "upma": {
+    "density_g_per_cm3": 0.85,
+    "standard_weight_g": 150.0,
+    "min_weight_g": 80.0,
+    "max_weight_g": 250.0,
+    "standard_thickness_cm": 2.8,
+    "standard_diameter_cm": 11.0,
+    "shape_factor": 0.75
+  },
+  "sambar": {
+    "density_g_per_cm3": 1.02,
+    "standard_weight_g": 150.0,
+    "min_weight_g": 60.0,
+    "max_weight_g": 250.0,
+    "standard_thickness_cm": 3.0,
+    "standard_diameter_cm": 10.0,
+    "shape_factor": 0.80
+  },
+  "chutney": {
+    "density_g_per_cm3": 0.95,
+    "standard_weight_g": 40.0,
+    "min_weight_g": 20.0,
+    "max_weight_g": 80.0,
+    "standard_thickness_cm": 1.5,
+    "standard_diameter_cm": 6.0,
+    "shape_factor": 0.75
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "idli": {
+    "name": "Idli",
+    "serving_unit": "1 piece (45g)",
+    "typical_weight_g": 45,
+    "calories_kcal": 59.4,
+    "protein_g": 1.75,
+    "carbohydrates_g": 11.9,
+    "fat_g": 0.36,
+    "fiber_g": 0.63,
+    "per_100g": {
+      "calories_kcal": 132.0,
+      "protein_g": 3.9,
+      "carbohydrates_g": 26.5,
+      "fat_g": 0.8,
+      "fiber_g": 1.4
+    },
+    "source": "ICMR-NIN IFCT 2017"
+  },
+  "dosa": {
+    "name": "Plain Dosa",
+    "serving_unit": "1 piece (90g)",
+    "typical_weight_g": 90,
+    "calories_kcal": 151.2,
+    "protein_g": 3.51,
+    "carbohydrates_g": 22.86,
+    "fat_g": 5.22,
+    "fiber_g": 1.08,
+    "per_100g": {
+      "calories_kcal": 168.0,
+      "protein_g": 3.9,
+      "carbohydrates_g": 25.4,
+      "fat_g": 5.8,
+      "fiber_g": 1.2
+    },
+    "source": "ICMR-NIN IFCT 2017"
+  },
+  "chapati": {
+    "name": "Chapati / Roti",
+    "serving_unit": "1 piece (40g)",
+    "typical_weight_g": 40,
+    "calories_kcal": 114.0,
+    "protein_g": 3.52,
+    "carbohydrates_g": 22.48,
+    "fat_g": 1.08,
+    "fiber_g": 3.76,
+    "per_100g": {
+      "calories_kcal": 285.0,
+      "protein_g": 8.8,
+      "carbohydrates_g": 56.2,
+      "fat_g": 2.7,
+      "fiber_g": 9.4
+    },
+    "source": "ICMR-NIN IFCT 2017"
+  },
+  "paneer": {
+    "name": "Paneer (Cottage Cheese)",
+    "serving_unit": "1 standard serving (100g)",
+    "typical_weight_g": 100,
+    "calories_kcal": 265.0,
+    "protein_g": 18.3,
+    "carbohydrates_g": 3.4,
+    "fat_g": 20.8,
+    "fiber_g": 0.0,
+    "per_100g": {
+      "calories_kcal": 265.0,
+      "protein_g": 18.3,
+      "carbohydrates_g": 3.4,
+      "fat_g": 20.8,
+      "fiber_g": 0.0
+    },
+    "source": "ICMR-NIN IFCT 2017"
+  },
+  "poori": {
+    "name": "Poori (Fried Bread)",
+    "serving_unit": "1 piece (35g)",
+    "typical_weight_g": 35,
+    "calories_kcal": 126.0,
+    "protein_g": 2.38,
+    "carbohydrates_g": 16.45,
+    "fat_g": 5.77,
+    "fiber_g": 1.12,
+    "per_100g": {
+      "calories_kcal": 360.0,
+      "protein_g": 6.8,
+      "carbohydrates_g": 47.0,
+      "fat_g": 16.5,
+      "fiber_g": 3.2
+    },
+    "source": "ICMR-NIN IFCT 2017"
+  }
+}
