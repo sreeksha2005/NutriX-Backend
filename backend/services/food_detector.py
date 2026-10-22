@@ -112,10 +112,13 @@ class FoodDetectorService:
         t0 = time.perf_counter()
         results = self.model.predict(
             source=img,
+            imgsz=640,
             conf=confidence_threshold,
             iou=IOU_THRESHOLD,
+            max_det=20,
             save=False,
             verbose=False,
+            device="cpu",
         )
         timings["yolo_inference_ms"] = round((time.perf_counter() - t0) * 1000, 1)
 
